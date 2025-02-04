@@ -1,0 +1,6 @@
+D:\Projetos\GerenciadorUsuarioAPI\GerenciadorUsuario.IntegrationTests\obj\Debug\net9.0\GerenciadorUsuario.IntegrationTests.csproj.AssemblyReference.cache
+D:\Projetos\GerenciadorUsuarioAPI\GerenciadorUsuario.IntegrationTests\obj\Debug\net9.0\MvcTestingAppManifest.json
+D:\Projetos\GerenciadorUsuarioAPI\GerenciadorUsuario.IntegrationTests\obj\Debug\net9.0\GerenciadorUsuario.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GerenciadorUsuarioAPI\GerenciadorUsuario.IntegrationTests\obj\Debug\net9.0\GerenciadorUsuario.IntegrationTests.AssemblyInfoInputs.cache
+D:\Projetos\GerenciadorUsuarioAPI\GerenciadorUsuario.IntegrationTests\obj\Debug\net9.0\GerenciadorUsuario.IntegrationTests.AssemblyInfo.cs
+D:\Projetos\GerenciadorUsuarioAPI\GerenciadorUsuario.IntegrationTests\obj\Debug\net9.0\GerenciadorUsuario.IntegrationTests.csproj.CoreCompileInputs.cache
